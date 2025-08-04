@@ -1,40 +1,54 @@
-# FNPs-Excel-Project
-This project is an Excel-based order management and analysis dashboard that provides insights into customer orders, product sales, and delivery patterns.
-## Project Overview
+FNPs Excel Dashboard – Sales & Order Analysis
+An interactive Excel-based dashboard designed to analyze and visualize customer orders, product sales, delivery performance, and revenue trends.
 
-## 🎯 Objectives
-- Analyze total revenue, orders, and delivery time
-- Identify top-performing products and peak sales hours
-- Understand customer spending habits
-- Explore sales by cities, days, and months
+Key Objectives
+Track total revenue, order volume, and delivery times
 
-##  Tools & Features Used
-- Microsoft Excel
-- Pivot Tables & Pivot Charts
-- Slicers and Timelines
-- Conditional Formatting
-- Data Cleaning and Transformation
+Identify top-selling products and peak sales hours
 
-## Key Insights
-- **Total Orders:** 1000  
-- **Total Revenue:** ₹35,20,984  
-- **Average Delivery Time:** 5 hours 53 minutes  
-- **Average Customer Spend:** ₹3,520.98  
+Analyze customer spending behavior and city-wise sales
 
-## Sheets in the File
-- `orders` – Raw sales transaction data  
-- `customers` – Customer information  
-- `products` – Product categories and details  
-- `Sheet4` – Final Dashboard
+Explore sales trends by occasion, day, and month
 
-  
-## How to Use
-1. Download the Excel file from this repository
-2. Open in Microsoft Excel (preferably 2016 or above)
-3. Use filters like Occasion, Order Date, Delivery Date to explore the data interactively
+Tools & Techniques
+Microsoft Excel (2016 and above)
 
-##  Outcome
-This dashboard helps stakeholders:
-- Understand which occasions and cities contribute the most to revenue
-- Identify high-demand products
-- Optimize order and delivery planning based on customer behavior
+Pivot Tables and Pivot Charts
+
+Slicers and Timelines
+
+Conditional Formatting
+
+Data Cleaning and Transformation
+
+Key Insights
+Total Orders: 1000
+
+Total Revenue: ₹35,20,984
+
+Average Delivery Time: 5 hours 53 minutes
+
+Average Spend per Customer: ₹3,520
+
+Sheets Included
+orders | customers | products | dashboard
+
+Business Outcome
+The dashboard enables stakeholders to:
+
+Identify high-performing products, cities, and occasions
+
+Make data-driven decisions for marketing, inventory, and delivery
+
+Monitor and improve operational efficiency
+
+Recommendations
+Focus marketing efforts on top-performing cities and occasions to drive revenue
+
+Reduce average delivery time to enhance customer satisfaction
+
+Introduce product bundling strategies for frequently ordered items
+
+Launch targeted promotions during peak sales hours and festive periods
+
+Download the Excel file, apply filters, and interact with the dashboard to explore insights.
