@@ -39,4 +39,4 @@ The dashboard enables stakeholders to:
 - Introduce product bundling strategies for frequently ordered items  
 - Launch targeted promotions during peak sales hours and festive periods
 
-Download the Excel file, apply filters, and interact with the dashboard to explore insights.
+
